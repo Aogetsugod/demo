@@ -1,0 +1,11 @@
+cd путь/к/папке  # Например: cd ~/Documents
+git clone https://github.com/... 
+https://github.com/Aogetsugod/demo.git
+git clone https://github.com/... "C:\MyProjects\Название"  # Windows
+git clone https://github.com/... ~/Documents/project_name  # Linux/macOS
+# Вы находитесь здесь: /Users/alex
+git clone https://github.com/username/project.git
+
+# Результат:
+# Проект сохранится в /Users/alex/project/
+cd  # Windows (CMD/PowerShell)
